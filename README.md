@@ -1,9 +1,18 @@
-# Universal Milling Machine
-Centralized repository for Universal Milling Machine documentation, maintenance records, inspections, certificates, and operational resources.
+# EOT Crane 1 & 2
+Centralized repository for EOT Crane certifications, inspections, maintenance records, load test reports, safety documents, and operational checklists, enabling fast QR-code access, document control, and compliance management.
 
-## Documents
-- [01 Milling Machine Manual](01_Milling_Machine_Manual.pdf)
-- [02 Milling Machine Operating Procedure](02_Milling_Machine_Operating_Procedure.pdf)
-- [03 Milling Machine Maintenance Schedule](03_Milling_Machine_Maintenance_Schedule.pdf)
-- [04 Milling Machine Risk Assessment](04_Milling_Machine_Risk_Assessment.pdf)
-- [05 Milling Machine Picture](05_Milling_Machine_Picture.png)
+## Certificates & Reports
+- [Inspection Certificate 1](Inspection_certificate_1.pdf)
+- [Inspection Certificate 2](Inspection_Certificate_2.pdf)
+- [Load Test Report](Load_Test_Report.pdf)
+
+## Manuals
+- [General Product Manual (ABUS)](GENERAL_PRODUCT_MANUAL_ABUS.pdf)
+- [Crane Operation Manual](MANUAL_CRANE_OPERATION.PDF)
+- [Load and Status Display Manual](Manual_Load_and_status_display.pdf)
+- [Radio Remote Control Manual](Manual_Radio_Remote_Control.pdf)
+- [Remote Operation Manual](Manual_Remote_Operation.pdf)
+- [Wire Rope Hoist Manual](Manual_Wire_rope_hoist.pdf)
+
+## Picture
+- [EOT Crane Picture](Picture1.png)
